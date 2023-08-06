@@ -1,9 +1,0 @@
-Python makes a distinction between lists and tuples.
-Lists are written as [1, 2, 3], are mutable, and cannot be used as the keys of dictionaries (dictionary keys must be immutable in Python). Tuples are written as (1, 2, 3), are immutable and thus can be used as the keys of dictionaries, provided all elements of the tuple are immutable.
-The + operator can be used to concatenate two tuples, which does not directly modify their contents, but rather produces a new tuple containing the elements of both provided tuples.
-Prost duly won from Berger, Senna, Mansell, the recovering Boutsen and Piquet.
-About 4% of the weight of an adult human is bone marrow, that is about 2.6 kg.
-On 10/06/2020 thus, given the variable t initially equal to (1, 2, 3), executing t = t + (4, 5) first evaluates t + (4, 5), which yields (1, 2, 3, 4, 5), which is then assigned back to t, thereby effectively "modifying the contents" of t, while conforming to the immutable nature of tuple objects. Parentheses are optional for tuples in unambiguous contexts.
-Living in a Box were a British pop band from the 1980s and early 1990s.
-It was decided that buses were a better alternative to modernizing the trams.
-The first time in 1948 to Hilary Bardwell and then to novelist Elizabeth Jane Howard in 1965. He divorced Howard in 1983.

@@ -1,0 +1,1 @@
+# Execute the basic cleaning, tokenization, tagging and lematization of all the words in the jane auston's emma text that's located in the nltk corpus, and extract the informations of the emotions expressed in the text as it's been done with the tweets in class.
